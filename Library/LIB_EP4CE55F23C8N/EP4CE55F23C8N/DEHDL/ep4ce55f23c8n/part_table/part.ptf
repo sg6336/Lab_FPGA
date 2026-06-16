@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EP4CE55F23C8N'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Intel", "EP4CE55F23C8N" (!) = "", "BGA484C100P22X22_2300X2300X240", "BGA", "989-EP4CE55F23C8N", "https://www.mouser.co.uk/ProductDetail/Altera/EP4CE55F23C8N?qs=jblrfmjbeiF3merBMihRew%3D%3D", "EP4CE55F23C8N", "https://www.arrow.com/en/products/ep4ce55f23c8n/alteraintel-programmable-solutions?utm_currency=USD&region=nac", "FPGA - Field Programmable Gate Array FPGA - Cyclone IV E 3491 LABs 324 IOs", "https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00416-03.pdf", "2.4 mm"
+END_PART
+
+END.

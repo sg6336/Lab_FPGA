@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EP4CE55F23C8N"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-12-06-16:33:01)
+    (mountForm default
+        (footprintRef "BGA484C100P22X22_2300X2300X240")
+        (spec "System")
+    )
+)

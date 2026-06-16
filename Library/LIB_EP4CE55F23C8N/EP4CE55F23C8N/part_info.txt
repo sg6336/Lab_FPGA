@@ -1,0 +1,9 @@
+Manufacturer=Intel
+PartNumber=EP4CE55F23C8N
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=484
+Version=2.1
+Released=2021-01-27 06:55:06
+Downloaded=2026-06-12 10:36:05
+3D=Y
